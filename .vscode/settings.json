@@ -1,0 +1,30 @@
+{
+    "python.analysis.extraPaths": [
+        "./tools"
+    ],
+    "cSpell.words": [
+        "astype",
+        "barmode",
+        "boxplot",
+        "cmap",
+        "colormaps",
+        "colwidth",
+        "coolwarm",
+        "dropna",
+        "dtype",
+        "dualaxis",
+        "hostings",
+        "imshow",
+        "interactiveshell",
+        "isin",
+        "nanmax",
+        "nunique",
+        "quantile",
+        "showgrid",
+        "textangle",
+        "textfont",
+        "viztools",
+        "xaxes",
+        "yaxes"
+    ]
+}
